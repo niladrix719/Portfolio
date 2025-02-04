@@ -1,106 +1,115 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Junior Full Stack Developer",
-    "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
+    "name": "Niladri Adhikary",
+    "label": "Software Developer",
+    "image": "/me_avatar.jpeg",
+    "email": "niladrix719@gmail.com",
+    "phone": "+91 7001 599 126",
     "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
+    "summary": "Software Developer with a passion for building different softwares. Currently seeking opportunities to further develop my skills in a professional setting.",
     "theme": "default",
     "location": {
       "address": "",
-      "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "postalCode": "700150",
+      "city": "Kolkata",
+      "countryCode": "IN",
+      "region": "India"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
+        "username": "niladri-adhikary",
+        "url": "https://www.linkedin.com/in/niladri-adhikary-932872221/"
       },
       {
         "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
+        "username": "niladrix719",
+        "url": "https://x.com/niladrix719"
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "niladrix719",
+        "url": "https://github.com/niladrix719"
       }
     ]
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
-      "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
-      "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
-      "highlights": [
-        "Improved website performance by optimizing code"
-      ],
+      "name": "CircuitVerse",
+      "position": "Google Summer Of Code Mentee",
+      "location_type": "remote",
+      "location": "Bangalore, India",
+      "url": "https://circuitverse.org",
+      "startDate": "2024-05-01",
+      "endDate": "2024-08-01",
+      "summary": "Developed and enhanced Circuitverse, a digital logic simulator, by improving accessibility, usability, and reliability through offline support, mobile optimization, and comprehensive testing.",
       "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
+        "Developed a desktop application for Circuitverse, enabling offline usage for users without a constant internet connection.",
+        "Designed and implemented a modern mobile view for the web simulator to enhance usability on mobile devices.",
+        "Created unit, end-to-end (E2E), and integration test cases for the Circuitverse simulator to improve testing coverage and reliability."
       ],
       "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
+        "Improved Circuitverse's accessibility, usability, and reliability by enabling offline support, optimizing the web simulator for mobile devices, and increasing test coverage by 50%."
+      ],
+      "skills": [
+        "VueJS",
+        "TypeScript",
+        "Pinia",
+        "Vitest",
+        "Tauri"
+      ]
+    },
+    {
+      "name": "IntrepidAI",
+      "position": "Software Engineer Intern",
+      "location_type": "remote",
+      "location": "Brussels, Belgium",
+      "url": "https://intrepid.ai",
+      "startDate": "2024-02-01",
+      "endDate": "2024-05-01",
+      "summary": "Worked as a Software Engineer Intern at IntrepidAI, contributing to the enhancement of the node-based graph system by improving comment management, navigation, and node interaction features.",
+      "responsibilities": [
+        "Migrated the legacy React-Flow node comment system to a new navigation-based system using Elkjs, enhancing efficiency and user experience.",
+        "Developed a Python node that integrates an IDE for creating inputs and outputs dynamically using Python code.",
+        "Implemented graph categories and custom nodes with a drag-and-drop interface for better organization and usability."
+      ],
+      "achievements": [
+        "Improved comment management efficiency by 40% and reduced user navigation time by 25% through the new navigation-based comment system."
       ],
       "skills": [
         "React",
-        "Tailwind",
-        "GitHub"
+        "TypeScript",
+        "React-Flow",
+        "Elkjs"
       ]
     },
     {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
-      "highlights": [
-        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
-      ],
-      "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
-      ],
-      "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
-      ],
-      "skills": [
-        "Python",
-        "Django",
-        "SQL",
-        "Git"
-      ]
-    },
-    {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
-      "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
+      "name": "Fipezo",
+      "position": "Software Developer Intern",
+      "location_type": "on-site",
+      "location": "Salt Lake City, Kolkata",
+      "url": "https://fipezo.com",
+      "startDate": "2023-04-01",
+      "endDate": "2023-07-01",
+      "summary": "Optimized web performance and user engagement by implementing server-side rendering (SSR) and developing algorithmic solutions to enhance profile visibility.",
       "highlights": [
         "Completed several client projects successfully"
       ],
+      "responsibilities": [
+        "Enhanced SEO and performance by implementing server-side rendering (SSR), leading to significant organic traffic growth.",
+        "Developed algorithmic solutions to prioritize profiles with exceptional reviews and an expanded client base, increasing user engagement."
+      ],
+      "achievements": [
+        "Boosted organic traffic and user engagement through SSR optimization and intelligent profile prioritization.."
+      ],
       "skills": [
-        "HTML",
-        "CSS"
+        "Next.js",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "S3 Bucket",
+        "NginX",
+        "Tailwind CSS"
       ]
     }
   ],
@@ -119,130 +128,49 @@
   ],
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
+      "institution": "UEM Kolkata",
+      "url": "https://uem.edu.in/uem-kolkata",
       "area": "Computer Science",
       "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
-      "score": "3.8",
+      "startDate": "2021-06-01",
+      "endDate": "2025-07-01",
+      "score": "8.1",
       "courses": [
-        "CS101 - Introduction to Computer Science",
-        "CS102 - Data Structures"
-      ]
-    },
-    {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
-      "studyType": "Master",
-      "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
-      "score": "3.9",
-      "courses": [
-        "SE201 - Advanced Software Development",
-        "SE202 - Software Architecture and Design"
-      ]
-    },
-    {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
-      "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
+        "",
+        ""
       ]
     }
   ],
   "certificates": [
     {
-      "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
+      "name": "Synchronicity S1 Hackathon Overall Winners",
+      "date": "2024-02-24",
+      "issuer": "Jadavpur University",
+      "url": "https://certopus.com/c/ef66ca664d604e39a9a591b6ca8310ea"
     }
   ],
   "skills": [
     {
-      "name": "Figma",
-      "level": "Expert",
-      "keywords": [
-        "Design",
-        "UI"
-      ]
-    },
-    {
-      "name": "Gitlab",
+      "name": "WebRTC",
       "level": "Intermediate",
       "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
-    },
-    {
-      "name": "HTML",
-      "level": "Intermediate",
-      "keywords": [
+        "Real-Time Communication",
         "Web Development",
-        "Frontend"
+        "Peer-to-Peer"
       ]
     },
     {
-      "name": "CSS",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
+      "name": "Express.js",
       "level": "Intermediate",
       "keywords": [
         "Web Development",
         "Backend",
-        "JavaScript",
-        "Server"
+        "Node.js",
+        "API"
       ]
     },
     {
-      "name": "MySQL",
+      "name": "SQL Server",
       "level": "Intermediate",
       "keywords": [
         "Databases",
@@ -252,27 +180,74 @@
       ]
     },
     {
-      "name": "Git",
+      "name": "Pinia",
       "level": "Intermediate",
       "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
+        "State Management",
+        "Vue.js",
+        "Frontend"
       ]
     },
     {
-      "name": "GitHub",
+      "name": "Vitest",
       "level": "Intermediate",
       "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code",
-        "Git"
+        "Testing",
+        "JavaScript",
+        "Frontend",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Tauri",
+      "level": "Intermediate",
+      "keywords": [
+        "Desktop Applications",
+        "Web Development",
+        "Rust"
+      ]
+    },
+    {
+      "name": "Rails",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "Ruby",
+        "API"
+      ]
+    },
+    {
+      "name": "Gin",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "Go",
+        "API"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Intermediate",
+      "keywords": [
+        "Containerization",
+        "DevOps",
+        "Deployment"
+      ]
+    },
+    {
+      "name": "Linux",
+      "level": "Intermediate",
+      "keywords": [
+        "Operating System",
+        "DevOps",
+        "Server Management"
       ]
     },
     {
       "name": "Next.js",
-      "level": "Beginner",
+      "level": "Intermediate",
       "keywords": [
         "Web Development",
         "Frontend",
@@ -289,6 +264,86 @@
         "Frontend",
         "JavaScript Library",
         "UI"
+      ]
+    },
+    {
+      "name": "Vue.js",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Framework",
+        "UI"
+      ]
+    },
+    {
+      "name": "Node.js",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "JavaScript",
+        "Server"
+      ]
+    },
+    {
+      "name": "Tailwind CSS",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "GreenSock",
+      "level": "Intermediate",
+      "keywords": [
+        "Animation",
+        "Web Development",
+        "Frontend",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Nginx",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Server",
+        "Reverse Proxy",
+        "DevOps",
+        "Load Balancing"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "NoSQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Rust",
+      "level": "Intermediate",
+      "keywords": [
+        "Programming Language",
+        "Systems Programming",
+        "Web Development",
+        "Backend"
       ]
     }
   ],
@@ -319,46 +374,28 @@
   ],
   "projects": [
     {
-      "name": "Personal Portfolio",
-      "isActive": false,
-      "description": "A personal portfolio website to showcase my projects and skills.",
-      "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
-      ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
-    },
-    {
-      "name": "Weather App",
+      "name": "Prathamik",
       "isActive": true,
-      "description": "A web application that provides weather information for any location.",
+      "description": "Inclusive and Accessible video/audio Calling Platform.",
       "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
-        "Responsive design"
+        "Built with React, Node.js, and WebRTC",
+        "Real-time video and audio calling",
+        "Accessibility features for visually impaired users"
       ],
-      "url": "https://weatherapp.com"
+      "url": "https://prathamik.vercel.app",
+      "github": "https://github.com/BitBustersx719/Prathamik"
     },
     {
-      "name": "Task Manager",
-      "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
-      "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
-      ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
-    },
-    {
-      "name": "E-commerce Site",
+      "name": "BucketX",
       "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "description": "Self Hosted Cloud Storage System.",
       "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
+        "Built with Golang",
+        "Object metadata storage using AOF",
+        "Dduplication, Format Conversion, Compression on the fly"
       ],
-      "url": "https://ecommerce.com"
+      "url": "",
+      "github": "https://github.com/Initify/bucketX"
     }
   ]
 }
